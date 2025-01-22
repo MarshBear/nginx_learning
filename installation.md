@@ -35,3 +35,12 @@ sudo lsof -i :80
 - `exit`：立即停止
 - `reload`：重新加载配置文件
 - `reopen`：重新打开日志文件
+
+也可通过系统服务指令实现
+
+```shell
+systemctl restart nginx # 重启
+systemctl stop nginx    # 停止
+```
+
+启动 nginx 后，打开防火墙 80 端口即可通过 ip 访问服务器，查看 nginx 是否正常启动。
