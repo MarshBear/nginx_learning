@@ -1,6 +1,6 @@
 # nginx 学习笔记
 
-[nginx](https://nginx.org/)是一款轻量级的 Web 服务器 、反向代理服务器。完整的 nginx 文档可见[nginx 官方文档](https://nginx.org/en/docs/)，本文档仅用于记录 nginx 学习过程，包括什么是 nginx、安装及使用，且主要使用 nginx 的反向代理与负载均衡的功能。
+[nginx](https://nginx.org/)是一款轻量级的 Web 服务器 、反向代理服务器。完整的 nginx 文档可见[nginx 官方文档](https://nginx.org/en/docs/)，本文档仅用于记录 nginx 学习过程，主要使用 nginx 的反向代理与负载均衡的功能。
 
 ### 反向代理
 
